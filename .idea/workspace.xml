@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17ed593d-bd9d-4fa0-9278-a6cc0fd4096c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_user/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_common_service/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_interface/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_common/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_common_web/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_web_manager/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_config/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_business/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_goods/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_order/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_system/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_web_portal/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_service_sms/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_common_cas/target/" />
+    <ignored path="$PROJECT_DIR$/qingcheng_web_center/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/qingcheng_parent$WebUtil.coverage" NAME="WebUtil Coverage Results" MODIFIED="1593945407261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qingcheng.util.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dubbo.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/qingcheng_common_service/src/main/resources/applicationContext-dubbo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WxPayServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/WxPayServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1416">
+              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BackMessageConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/consumer/BackMessageConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_service_sms/src/main/java/com/qingcheng/consumer/SmsUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1176">
+              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/java/com/qingcheng/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_service_user/src/main/java/com/qingcheng/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2448">
+              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsMessageConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qingcheng_service_sms/src/main/java/com/qingcheng/consumer/SmsMessageConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>options</find>
+      <find>isShow</find>
+      <find>categoryB</find>
+      <find>发货</find>
+      <find>物流</find>
+      <find>templateList</find>
+      <find>下拉</find>
+      <find>List</find>
+      <find>`</find>
+      <find>@Transactional</find>
+      <find>CategoryBrand</find>
+      <find>Apple</find>
+      <find>商品介绍</find>
+      <find>手机</find>
+      <find>py</find>
+      <find>颜色</find>
+      <find>item</find>
+      <find>header</find>
+      <find>resultList</find>
+      <find>+</find>
+      <find>index</find>
+      <find>login.</find>
+      <find>sku</find>
+      <find>che</find>
+      <find>checked</find>
+      <find>addI</find>
+      <find>结算</find>
+      <find>selectAddress</find>
+      <find>qrcode</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_web_center/src/main/resources/cas.properties" />
+        <option value="$PROJECT_DIR$/qingcheng_common_cas/src/main/java/com/qingcheng/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/qingcheng_common_cas/src/main/resources/spring-security.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/WEB-INF/templates/login.html" />
+        <option value="$PROJECT_DIR$/qingcheng_common_service/src/main/java/com/qingcheng/util/CacheKey.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/WEB-INF/templates/index.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/WEB-INF/templates/search.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/WEB-INF/templates/item.html" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/PreferentialService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_pojo/src/main/java/com/qingcheng/pojo/order/Preferential.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/PreferentialServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/CartService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/cart.html" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/user/AddressService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_user/src/main/java/com/qingcheng/service/impl/AddressServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/dao/SkuMapper.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_center/src/main/webapp/center-index.html" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/goods/SkuService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_manager/src/main/java/com/qingcheng/controller/order/OrderController.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/java/com/qingcheng/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/order.html" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/service/impl/SkuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/pom.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/dao/StockBackMapper.java" />
+        <option value="$PROJECT_DIR$/qingcheng_pojo/src/main/java/com/qingcheng/pojo/goods/StockBack.java" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/goods/StockBackService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/consumer/BackMessageConsumer.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_manager/src/main/java/com/qingcheng/controller/goods/SkuTask.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/service/impl/StockBackServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/pom.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/src/main/resources/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/order-success.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/pay.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/resources/cas.properties" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/WxPayService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/OrderService.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/teststomp.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/weixinpay.html" />
+        <option value="$PROJECT_DIR$/qingcheng_service_goods/src/main/resources/applicationContext-rabbitmq-consumer.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/WxPayServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/paysuccess.html" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/java/com/qingcheng/controller/WxPayController.java" />
+        <option value="$PROJECT_DIR$/qingcheng_service_user/src/main/resources/applicationContext-rabbitmq-producer.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_service_order/src/main/resources/applicationContext-rabbitmq-producer.xml" />
+        <option value="$PROJECT_DIR$/qingcheng_service_sms/src/main/resources/sms.properties" />
+        <option value="$PROJECT_DIR$/qingcheng_service_user/src/main/java/com/qingcheng/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/qingcheng_web_portal/src/main/resources/spring-security-portal.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../../Repository/Repository-qingcheng" />
+        <option name="mavenHome" value="C:/jq/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\jq\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_web_center" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_web_center" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_web_center" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_web_portal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_web_portal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qingcheng_web_portal" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="891" />
+    <option name="y" value="-20" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSAnnotator</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_goods" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="wxpay" type="462c0819:PsiDirectoryNode" />
+              <item name="sdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_sms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_service_user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qingcheng_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qingcheng_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="qingcheng_web_portal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_sdk_v3.0.9/pom.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="applicationContext-rabbitmq-.xml&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_service_goods/src/main/resources/applicationContext-rabbitmq-consumer.xml&#10;orderser&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_interface/src/main/java/com/qingcheng/service/order/OrderService.java&#10;config&#9;PSI&#9;JAVA://com.github.wxpay.sdk.Config&#10;conf&#9;PSI&#9;JAVA://com.qingcheng.pojo.order.OrderConfig&#10;cartcon&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_web_portal/src/main/java/com/qingcheng/controller/CartController.java&#10;order.ht&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_web_portal/src/main/webapp/order.html&#10;order.&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_web_portal/src/main/webapp/order.html&#10;order&#9;PSI&#9;JAVA://com.qingcheng.pojo.order.Order&#10;ordercont&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_web_manager/src/main/java/com/qingcheng/controller/order/OrderController.java&#10;orderse&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_interface/src/main/java/com/qingcheng/service/order/OrderService.java&#10;prefere&#9;PSI&#9;JAVA://com.qingcheng.pojo.order.Preferential&#10;orderi&#9;PSI&#9;JAVA://com.qingcheng.pojo.order.OrderItem&#10;good&#9;PSI&#9;JAVA://com.qingcheng.pojo.goods.Goods&#10;searchcon&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_web_portal/src/main/java/com/qingcheng/controller/SearchController.java&#10;category&#9;PSI&#9;JAVA://com.qingcheng.pojo.goods.Category&#10;task&#9;PSI&#9;JAVA://com.qingcheng.controller.order.OrderTask&#10;skuser&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_interface/src/main/java/com/qingcheng/service/goods/SkuService.java&#10;cate&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_pojo/src/main/java/com/qingcheng/pojo/goods/Category.java&#10;templa&#9;PSI&#9;JAVA://com.qingcheng.pojo.goods.Template&#10;admin&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_pojo/src/main/java/com/qingcheng/pojo/system/Admin.java&#10;adminsi&#9;PSI&#9;JAVA://com.qingcheng.service.impl.AdminServiceImpl&#10;applicationContext-ser&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_service_goods/src/main/resources/applicationContext-service.xml&#10;AreasService&#9;PSI&#9;JAVA://com.qingcheng.service.user.AreasService&#10;spuservi&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_service_goods/src/main/java/com/qingcheng/service/impl/SpuServiceImpl.java&#10;spuim&#9;FILE&#9;file://D:/Workspaces/IDEA/02/qingcheng/qingcheng_parent/qingcheng_service_goods/src/main/java/com/qingcheng/service/impl/SpuServiceImpl.java&#10;spuc&#9;PSI&#9;JAVA://com.qingcheng.controller.goods.SpuController&#10;spuser&#9;PSI&#9;JAVA://com.qingcheng.service.goods.SpuService&#10;resul&#9;PSI&#9;JAVA://com.qingcheng.entity.Result&#10;spec&#9;PSI&#9;JAVA://com.qingcheng.pojo.goods.Spec&#10;temp&#9;PSI&#9;JAVA://com.qingcheng.pojo.goods.Template" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\webapp" />
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\webapp\WEB-INF\templates" />
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_service_sms\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github.wxpay.sdk" />
+      <recent name="com.qingcheng.service" />
+      <recent name="com.qingcheng.service.impl" />
+      <recent name="com.qingcheng.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\webapp\js" />
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\webapp" />
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_service_goods\src\main\resources" />
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_service_order\src\main\resources" />
+      <recent name="D:\Workspaces\IDEA\02\qingcheng\qingcheng_parent\qingcheng_web_portal\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="WebUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.qingcheng.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.qingcheng.util.WebUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="qingcheng_common_web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.WebUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ed593d-bd9d-4fa0-9278-a6cc0fd4096c" name="Default" comment="" />
+      <created>1583678122659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583678122659</updated>
+      <workItem from="1583678127690" duration="2978000" />
+      <workItem from="1583722323448" duration="16738000" />
+      <workItem from="1583834014679" duration="155712000" />
+      <workItem from="1585455366830" duration="33801000" />
+      <workItem from="1586320025673" duration="505000" />
+      <workItem from="1586336567864" duration="6465000" />
+      <workItem from="1586353832699" duration="204000" />
+      <workItem from="1586354072279" duration="44902000" />
+      <workItem from="1587111516326" duration="6097000" />
+      <workItem from="1587350583742" duration="7602000" />
+      <workItem from="1587371012165" duration="25747000" />
+      <workItem from="1587720271841" duration="81922000" />
+      <workItem from="1589252411565" duration="135170000" />
+      <workItem from="1590241588932" duration="60000" />
+      <workItem from="1590241681213" duration="155795000" />
+      <workItem from="1592621240620" duration="6252000" />
+      <workItem from="1592705186848" duration="5652000" />
+      <workItem from="1592750251419" duration="42407000" />
+      <workItem from="1593868891870" duration="23957000" />
+      <workItem from="1594524963521" duration="3088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="755054000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66138166" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23497854" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66138166" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21620172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="ZooKeeper" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/java/com/qingcheng/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3744">
+          <caret line="171" column="4" lean-forward="false" selection-start-line="171" selection-start-column="4" selection-end-line="171" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/service/impl/SkuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3096">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="236" column="0" lean-forward="true" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/service/impl/StockBackServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="61" column="58" lean-forward="false" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/dao/AlbumMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/js/qrcode.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="467" column="0" lean-forward="true" selection-start-line="467" selection-start-column="0" selection-end-line="467" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/order-fail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/order-success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="261" column="0" lean-forward="true" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/resources/cas.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="45" lean-forward="false" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_pojo/src/main/java/com/qingcheng/pojo/order/OrderConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/js/stomp.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/user/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/teststomp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/WxPayService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_interface/src/main/java/com/qingcheng/service/order/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1067">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/weixinpay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="276" column="0" lean-forward="true" selection-start-line="276" selection-start-column="0" selection-end-line="276" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/github/wxpay/sdk/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/resources/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Repository/Repository-qingcheng/com/github/wxpay/wxpay-sdk/3.0.9/wxpay-sdk-3.0.9.jar!/com/github/wxpay/sdk/WXPayUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/paysuccess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="241" column="0" lean-forward="true" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="155" column="0" lean-forward="false" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/java/com/qingcheng/controller/WxPayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_sms/src/main/resources/applicationContext-rabbitmq-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_user/src/main/resources/applicationContext-rabbitmq-producer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/resources/applicationContext-rabbitmq-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/resources/applicationContext-rabbitmq-producer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_sms/src/main/resources/sms.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_common_service/src/main/resources/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_sms/src/main/java/com/qingcheng/consumer/SmsMessageConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/dao/SkuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_sms/src/main/java/com/qingcheng/consumer/SmsUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/java/com/qingcheng/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_user/src/main/java/com/qingcheng/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/java/com/qingcheng/consumer/BackMessageConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/WxPayServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1416">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/java/com/qingcheng/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="249" column="0" lean-forward="false" selection-start-line="249" selection-start-column="0" selection-end-line="249" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_common/src/main/resources/zk.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_common_service/src/main/resources/redis-config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_goods/src/main/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_service_order/src/main/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_web_portal/src/main/resources/spring-security-portal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qingcheng_common_service/src/main/resources/applicationContext-dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>qingcheng_service_business:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|qingcheng_common_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
